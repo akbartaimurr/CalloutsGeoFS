@@ -8,7 +8,7 @@
 // ==/UserScript==
 
 (function() {
-    'use strict';
+    'use strict'; //M2S
 
     function removeElementsByClass(className) {
         const elements = document.getElementsByClassName(className);
