@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoFS Callouts & Ad Removal
 // @version      1.0
-// @description  Removes ads and plays callouts based on instrument rotation in GeoFS
+// @description  Removes ads and plays callouts based on instrument rotation in GeoFs
 // @author       akbartai
 
 // @credits       ad removal code: https://greasyfork.org/en/scripts/443618-geofs-ad-remover/code
